@@ -1,0 +1,16 @@
+{
+  "name": "prettier-17249",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "turbopack": "next dev --turbopack",
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "@babel/parser": "7.26.10",
+    "next": "15.2.2",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  }
+}
